@@ -1,0 +1,9 @@
+{
+  "name": "new-yeoman",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "hoverintent": "*"
+  },
+  "devDependencies": {}
+}
